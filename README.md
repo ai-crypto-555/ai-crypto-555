@@ -22,3 +22,11 @@
   <a href="https://github.com/goldman555">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=goldman555&style=for-the-badge"/></a>
 </p>.
+
+<br/>
+<div>
+	<a href="https://github.com/goldman555"><img alt="goldman555's activity graph" src="https://activity-graph.herokuapp.com/graph?username=goldman555&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+</div>
+
+<br/>
+<br/>
